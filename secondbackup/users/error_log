@@ -1,0 +1,849 @@
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 29
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 29
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 30
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 30
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 31
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 31
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 32
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 32
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 34
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 34
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 36
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 36
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 37
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 37
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 40
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 40
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 41
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 43
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 49
+[30-Jan-2019 20:55:04 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 49
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 29
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 29
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 30
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 30
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 31
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 31
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 32
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 32
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 34
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 34
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 36
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 36
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 37
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 37
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 40
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 40
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 41
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 43
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 49
+[30-Jan-2019 20:57:05 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 49
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 29
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 29
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 30
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 30
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 31
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 31
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 32
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 32
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 34
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 34
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 36
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 36
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 37
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 37
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 40
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 40
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 41
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 43
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 49
+[30-Jan-2019 20:57:22 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 49
+[30-Jan-2019 20:59:39 Asia/Hong_Kong] PHP Notice:  Undefined variable: conn in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 15
+[30-Jan-2019 21:01:18 Asia/Hong_Kong] PHP Notice:  Undefined variable: conn in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 15
+[30-Jan-2019 21:02:37 Asia/Hong_Kong] PHP Notice:  Undefined variable: conn in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 15
+[30-Jan-2019 21:03:11 Asia/Hong_Kong] PHP Notice:  Undefined variable: conn in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 15
+[31-Jan-2019 12:25:59 Asia/Hong_Kong] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 13
+[31-Jan-2019 12:25:59 Asia/Hong_Kong] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 15
+[31-Jan-2019 12:25:59 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 17
+[31-Jan-2019 12:25:59 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 19
+[31-Jan-2019 12:25:59 Asia/Hong_Kong] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 27
+[31-Jan-2019 16:34:33 Asia/Hong_Kong] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 13
+[31-Jan-2019 16:34:33 Asia/Hong_Kong] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 15
+[31-Jan-2019 16:34:33 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 17
+[31-Jan-2019 16:34:33 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 19
+[31-Jan-2019 16:34:33 Asia/Hong_Kong] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 27
+[31-Jan-2019 16:35:42 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 30
+[31-Jan-2019 16:36:09 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 30
+[31-Jan-2019 16:36:57 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 30
+[01-Feb-2019 14:29:48 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 30
+[01-Feb-2019 14:30:37 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 30
+[01-Feb-2019 14:31:26 Asia/Hong_Kong] PHP Notice:  Undefined variable: conn in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 9
+[01-Feb-2019 14:33:45 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 14:33:52 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 14:34:06 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 14:36:18 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 14:40:30 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 14:41:32 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 14:42:09 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 14:42:15 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 15:08:20 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 15:14:33 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[01-Feb-2019 15:14:46 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 32
+[04-Feb-2019 19:51:28 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[04-Feb-2019 19:59:05 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[04-Feb-2019 20:03:59 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[04-Feb-2019 20:04:56 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[04-Feb-2019 20:12:09 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 17
+[04-Feb-2019 20:13:37 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 17
+[04-Feb-2019 20:16:54 Asia/Hong_Kong] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 17
+[04-Feb-2019 20:30:34 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 21
+[04-Feb-2019 20:31:01 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 21
+[04-Feb-2019 20:31:04 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 21
+[04-Feb-2019 20:32:16 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '>' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 22
+[04-Feb-2019 20:32:50 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 21
+[04-Feb-2019 20:36:50 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 21
+[04-Feb-2019 20:36:50 Asia/Hong_Kong] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 354
+[04-Feb-2019 20:36:50 Asia/Hong_Kong] PHP Notice:  Use of undefined constant company - assumed 'company' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 358
+[04-Feb-2019 20:36:50 Asia/Hong_Kong] PHP Notice:  Use of undefined constant salary - assumed 'salary' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 362
+[04-Feb-2019 20:36:50 Asia/Hong_Kong] PHP Notice:  Use of undefined constant location - assumed 'location' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 366
+[04-Feb-2019 20:39:30 Asia/Hong_Kong] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 17
+[04-Feb-2019 20:44:31 Asia/Hong_Kong] PHP Notice:  Undefined variable: db in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[04-Feb-2019 20:44:31 Asia/Hong_Kong] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[04-Feb-2019 20:46:07 Asia/Hong_Kong] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 352
+[04-Feb-2019 20:46:07 Asia/Hong_Kong] PHP Notice:  Use of undefined constant company - assumed 'company' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 356
+[04-Feb-2019 20:46:07 Asia/Hong_Kong] PHP Notice:  Use of undefined constant salary - assumed 'salary' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 360
+[04-Feb-2019 20:46:07 Asia/Hong_Kong] PHP Notice:  Use of undefined constant location - assumed 'location' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 364
+[04-Feb-2019 20:49:39 Asia/Hong_Kong] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 352
+[04-Feb-2019 20:49:39 Asia/Hong_Kong] PHP Notice:  Use of undefined constant company - assumed 'company' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 356
+[04-Feb-2019 20:49:39 Asia/Hong_Kong] PHP Notice:  Use of undefined constant salary - assumed 'salary' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 360
+[04-Feb-2019 20:49:39 Asia/Hong_Kong] PHP Notice:  Use of undefined constant location - assumed 'location' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 364
+[06-Feb-2019 20:07:34 Asia/Hong_Kong] PHP Notice:  Undefined variable: comment in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 472
+[06-Feb-2019 21:54:04 Asia/Hong_Kong] PHP Notice:  Undefined variable: comment in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 472
+[06-Feb-2019 21:54:23 Asia/Hong_Kong] PHP Notice:  Undefined variable: comment in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 472
+[07-Feb-2019 15:46:25 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '}' in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 5
+[07-Feb-2019 15:46:47 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function session_is_registered() in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 3
+[07-Feb-2019 15:47:42 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function session_is_registered() in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 3
+[07-Feb-2019 17:22:11 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function session_is_registered() in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 3
+[07-Feb-2019 18:03:27 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[07-Feb-2019 18:06:57 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected end of file in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 62
+[07-Feb-2019 18:09:47 Asia/Hong_Kong] PHP Notice:  Undefined index: user_name in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 6
+[07-Feb-2019 18:10:46 Asia/Hong_Kong] PHP Notice:  Undefined index: user_name in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 6
+[09-Feb-2019 18:51:21 Asia/Hong_Kong] PHP Notice:  Undefined variable: endpage in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 413
+[09-Feb-2019 18:51:29 Asia/Hong_Kong] PHP Notice:  Undefined variable: endpage in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 413
+[09-Feb-2019 19:22:16 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'UTF' (T_STRING), expecting ',' or ')' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 36
+[09-Feb-2019 19:22:16 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'UTF' (T_STRING), expecting ',' or ')' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 36
+[09-Feb-2019 19:22:16 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'UTF' (T_STRING), expecting ',' or ')' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 36
+[09-Feb-2019 19:22:16 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'UTF' (T_STRING), expecting ',' or ')' in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 36
+[09-Feb-2019 19:22:47 Asia/Hong_Kong] PHP Notice:  Undefined variable: page_no in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 25
+[09-Feb-2019 19:22:47 Asia/Hong_Kong] PHP Notice:  Undefined variable: page_no in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 27
+[09-Feb-2019 19:56:50 Asia/Hong_Kong] PHP Notice:  Undefined variable: start_from in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 25
+[09-Feb-2019 19:58:12 Asia/Hong_Kong] PHP Notice:  Undefined variable: start_from in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 24
+[09-Feb-2019 19:58:17 Asia/Hong_Kong] PHP Notice:  Undefined variable: start_from in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 24
+[09-Feb-2019 19:58:42 Asia/Hong_Kong] PHP Notice:  Undefined variable:  in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 24
+[09-Feb-2019 19:58:53 Asia/Hong_Kong] PHP Notice:  Undefined variable:  in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 24
+[09-Feb-2019 19:59:00 Asia/Hong_Kong] PHP Notice:  Undefined variable:  in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 24
+[09-Feb-2019 23:10:00 Asia/Hong_Kong] PHP Notice:  Undefined index: page in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 21
+[09-Feb-2019 23:10:33 Asia/Hong_Kong] PHP Notice:  Undefined index: page in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 21
+[09-Feb-2019 23:20:20 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[09-Feb-2019 23:20:31 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[09-Feb-2019 23:20:31 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[09-Feb-2019 23:20:47 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[13-Feb-2019 16:03:52 Asia/Hong_Kong] PHP Notice:  Undefined variable: dbo in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 17
+[13-Feb-2019 16:03:52 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 17
+[13-Feb-2019 17:30:32 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting end of file in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 21
+[13-Feb-2019 17:31:50 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting end of file in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 20
+[13-Feb-2019 17:50:59 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 17
+[13-Feb-2019 17:58:30 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 17
+[13-Feb-2019 18:00:16 Asia/Hong_Kong] PHP Notice:  Use of undefined constant Asia - assumed 'Asia' in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 14
+[13-Feb-2019 18:00:16 Asia/Hong_Kong] PHP Notice:  Use of undefined constant Kolkata - assumed 'Kolkata' in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 14
+[13-Feb-2019 18:00:16 Asia/Hong_Kong] PHP Warning:  Division by zero in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 14
+[13-Feb-2019 18:00:16 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 18
+[13-Feb-2019 18:04:13 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 18
+[13-Feb-2019 18:04:13 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 20
+[13-Feb-2019 18:14:41 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 18
+[13-Feb-2019 18:14:41 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 20
+[13-Feb-2019 18:16:46 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 18
+[13-Feb-2019 18:16:46 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 20
+[13-Feb-2019 18:17:03 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 18
+[13-Feb-2019 18:17:03 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 20
+[13-Feb-2019 18:18:02 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 18
+[13-Feb-2019 18:18:02 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 20
+[13-Feb-2019 18:19:52 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 18
+[13-Feb-2019 18:19:52 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 20
+[13-Feb-2019 18:20:17 Asia/Hong_Kong] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 18
+[13-Feb-2019 18:20:17 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 20
+[13-Feb-2019 18:23:10 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 19
+[13-Feb-2019 18:34:01 Asia/Hong_Kong] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/datetime.php on line 19
+[13-Feb-2019 19:59:35 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[13-Feb-2019 22:17:26 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 46
+[13-Feb-2019 22:18:47 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 46
+[13-Feb-2019 22:44:04 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[13-Feb-2019 22:44:11 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[13-Feb-2019 22:44:34 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[13-Feb-2019 22:44:34 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[13-Feb-2019 23:57:28 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[13-Feb-2019 23:57:52 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[14-Feb-2019 14:49:44 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[14-Feb-2019 15:12:52 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[14-Feb-2019 15:48:52 Asia/Hong_Kong] PHP Notice:  Undefined index: code in /home/tpotsco/public_html/shared_hosting/euphotel/users/forgot.php on line 36
+[14-Feb-2019 15:49:13 Asia/Hong_Kong] PHP Notice:  Undefined index: code in /home/tpotsco/public_html/shared_hosting/euphotel/users/forgot.php on line 36
+[14-Feb-2019 15:56:35 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[14-Feb-2019 17:11:17 Asia/Hong_Kong] PHP Notice:  Undefined index: dob in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 27
+[14-Feb-2019 17:14:44 Asia/Hong_Kong] PHP Notice:  Undefined index: dob in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 27
+[14-Feb-2019 17:17:27 Asia/Hong_Kong] PHP Notice:  Undefined index: dob in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 27
+[14-Feb-2019 17:30:25 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 21
+[14-Feb-2019 17:56:43 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[14-Feb-2019 18:43:01 Asia/Hong_Kong] PHP Notice:  Undefined variable: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 34
+[14-Feb-2019 18:43:01 Asia/Hong_Kong] PHP Notice:  Undefined variable: email in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 35
+[14-Feb-2019 18:43:01 Asia/Hong_Kong] PHP Notice:  Undefined variable: contact in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 38
+[14-Feb-2019 18:43:01 Asia/Hong_Kong] PHP Notice:  Undefined variable: altercontact in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 39
+[14-Feb-2019 18:43:01 Asia/Hong_Kong] PHP Notice:  Undefined variable: city in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 40
+[14-Feb-2019 18:43:01 Asia/Hong_Kong] PHP Notice:  Undefined variable: dob in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 41
+[14-Feb-2019 18:43:01 Asia/Hong_Kong] PHP Notice:  Undefined variable: education in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 42
+[14-Feb-2019 18:43:01 Asia/Hong_Kong] PHP Notice:  Undefined variable: role in /home/tpotsco/public_html/shared_hosting/euphotel/users/reginsert.php on line 43
+[14-Feb-2019 19:15:47 Asia/Hong_Kong] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:30) in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 460
+[14-Feb-2019 19:15:47 Asia/Hong_Kong] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:30) in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 463
+[14-Feb-2019 19:15:47 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 465
+[14-Feb-2019 19:16:20 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[14-Feb-2019 19:16:33 Asia/Hong_Kong] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:30) in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 460
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 381
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 385
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 389
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 393
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 400
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 407
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 443
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: page in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 450
+[14-Feb-2019 19:18:57 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 495
+[14-Feb-2019 19:37:08 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[14-Feb-2019 19:43:33 Asia/Hong_Kong] PHP Notice:  A session had already been started - ignoring session_start() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 57
+[14-Feb-2019 19:50:56 Asia/Hong_Kong] PHP Notice:  Undefined variable: query in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 30
+[14-Feb-2019 19:50:56 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 30
+[15-Feb-2019 12:59:28 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 12:59:47 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:00:04 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:00:25 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:00:52 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:01:10 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:01:12 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:02:54 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:04:13 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:04:42 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:05:57 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:06:50 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:10:07 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function session_register() in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 46
+[15-Feb-2019 13:20:23 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:20:43 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:21:06 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:21:37 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:21:59 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:23:15 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:23:32 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:26:22 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:43:16 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:43:24 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:43:35 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 13:43:40 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:43:47 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:44:01 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:44:13 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:49:55 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:49:56 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 13:51:43 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[15-Feb-2019 14:13:32 Asia/Hong_Kong] PHP Notice:  Undefined variable: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 468
+[15-Feb-2019 14:18:10 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 14:18:56 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 7
+[15-Feb-2019 15:09:25 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 8
+[15-Feb-2019 15:09:33 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 8
+[15-Feb-2019 15:15:38 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/deshboard.php on line 8
+[15-Feb-2019 15:40:57 Asia/Hong_Kong] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 202
+[15-Feb-2019 15:45:50 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 12
+[15-Feb-2019 15:50:59 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 13
+[15-Feb-2019 15:52:32 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 13
+[15-Feb-2019 16:00:55 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 13
+[15-Feb-2019 16:01:01 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 13
+[15-Feb-2019 16:01:52 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 13
+[15-Feb-2019 16:07:24 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:07:24 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 228
+[15-Feb-2019 16:07:57 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:07:57 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 228
+[15-Feb-2019 16:10:36 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:10:36 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 228
+[15-Feb-2019 16:11:10 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:11:10 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 228
+[15-Feb-2019 16:12:20 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:12:20 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 229
+[15-Feb-2019 16:14:31 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:14:31 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 229
+[15-Feb-2019 16:15:26 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_result() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:15:47 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_result() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:15:50 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_result() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:16:00 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_assoc() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:16:20 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:16:20 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 229
+[15-Feb-2019 16:21:53 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 13
+[15-Feb-2019 16:21:59 Asia/Hong_Kong] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli() in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 13
+[15-Feb-2019 16:22:53 Asia/Hong_Kong] PHP Notice:  Undefined variable: result in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:22:53 Asia/Hong_Kong] PHP Warning:  mysqli_query(): Empty query in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 16:22:53 Asia/Hong_Kong] PHP Notice:  Undefined variable: result in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 228
+[15-Feb-2019 16:22:53 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 228
+[15-Feb-2019 17:00:08 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 229
+[15-Feb-2019 17:02:27 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 230
+[15-Feb-2019 17:05:34 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 231
+[15-Feb-2019 17:09:09 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 19
+[15-Feb-2019 17:09:09 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 246
+[15-Feb-2019 17:09:09 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 251
+[15-Feb-2019 17:11:13 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:11:13 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 24
+[15-Feb-2019 17:11:13 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 251
+[15-Feb-2019 17:11:13 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 256
+[15-Feb-2019 17:11:42 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:11:42 Asia/Hong_Kong] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 16
+[15-Feb-2019 17:11:42 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:11:42 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:11:42 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:12:39 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:12:39 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:12:39 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:12:39 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:14:00 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:14:00 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:14:00 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:14:00 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:14:41 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:14:41 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:14:41 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:14:41 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:15:05 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:15:05 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:15:05 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:15:05 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:15:17 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:15:17 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:15:17 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:15:17 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:17:46 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:17:46 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:17:46 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:17:46 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:18:12 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:18:12 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:18:12 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:18:12 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:18:35 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:18:35 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:18:35 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:18:35 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:19:36 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:19:36 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:19:36 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:19:36 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:19:36 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:19:36 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:19:36 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:19:36 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:19:50 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:19:50 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:19:50 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:19:50 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:20:00 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:20:00 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:20:00 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:20:00 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:20:03 Asia/Hong_Kong] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 15
+[15-Feb-2019 17:20:03 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 22
+[15-Feb-2019 17:20:03 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 249
+[15-Feb-2019 17:20:03 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:20:30 Asia/Hong_Kong] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 14
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:03 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: id in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 23
+[15-Feb-2019 17:21:28 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 17:22:38 Asia/Hong_Kong] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/tpotsco/public_html/shared_hosting/euphotel/users/registration.php on line 254
+[15-Feb-2019 18:10:37 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[15-Feb-2019 18:10:52 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[15-Feb-2019 18:13:47 Asia/Hong_Kong] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 39
+[15-Feb-2019 18:14:30 Asia/Hong_Kong] PHP Notice:  Array to string conversion in /home/tpotsco/public_html/shared_hosting/euphotel/users/loginserv.php on line 42
+[15-Feb-2019 18:14:50 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[15-Feb-2019 18:16:45 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[15-Feb-2019 18:18:00 Asia/Hong_Kong] PHP Notice:  Undefined index: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[15-Feb-2019 18:59:28 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[15-Feb-2019 18:59:28 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[15-Feb-2019 21:16:54 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[15-Feb-2019 21:16:54 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:02:38 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:02:38 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:06:12 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:06:12 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:09:39 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:09:39 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:16:51 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:16:51 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:17:41 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:17:41 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:17:48 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:17:48 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:19:00 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:19:00 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:22:44 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:22:44 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 15:22:46 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[16-Feb-2019 15:22:46 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[16-Feb-2019 16:59:31 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 47
+[16-Feb-2019 16:59:42 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 49
+[16-Feb-2019 17:00:06 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[16-Feb-2019 17:00:06 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 49
+[16-Feb-2019 17:00:51 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 49
+[16-Feb-2019 17:00:54 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 49
+[16-Feb-2019 17:01:11 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 49
+[16-Feb-2019 17:01:53 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 49
+[16-Feb-2019 17:55:15 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[16-Feb-2019 17:55:15 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[16-Feb-2019 17:56:08 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 13:58:20 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 13:59:42 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:16:09 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:22:38 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:23:30 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:24:13 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:27:15 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:28:19 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:30:01 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:37:02 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:43:43 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:44:30 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:45:06 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:48:06 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:50:29 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 14:59:22 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:01:13 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:01:54 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:02:50 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:09:42 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:12:26 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:13:35 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:14:56 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:19:27 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:22:12 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:22:37 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:23:06 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:28:18 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:28:40 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:29:36 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[18-Feb-2019 15:29:36 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:29:58 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:30:34 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:33:14 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:36:21 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:36:47 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:38:23 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:39:04 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:39:32 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:40:23 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:40:52 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:40:58 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:45:46 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:46:28 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:46:59 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:49:20 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:49:53 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:50:52 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:51:08 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:53:55 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:54:25 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:56:03 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 15:56:25 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:03:54 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:05:53 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:06:43 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:07:50 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:08:46 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:09:19 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:12:07 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:12:36 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:13:39 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:14:18 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:16:40 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:17:07 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:18:31 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:19:01 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:23:10 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:24:47 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:27:26 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:30:25 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:31:03 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:32:37 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:33:02 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:33:17 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:33:58 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:35:59 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:37:01 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 16:38:12 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[18-Feb-2019 18:51:13 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[18-Feb-2019 18:51:13 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[18-Feb-2019 18:51:18 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[18-Feb-2019 18:51:18 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[19-Feb-2019 12:17:05 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[19-Feb-2019 12:17:05 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[19-Feb-2019 13:55:01 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[19-Feb-2019 14:03:04 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 14:03:05 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[19-Feb-2019 14:09:44 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[19-Feb-2019 14:10:02 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[19-Feb-2019 14:11:13 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 42
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 391
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 395
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 399
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 403
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 410
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 417
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 453
+[19-Feb-2019 14:14:59 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 505
+[19-Feb-2019 14:15:14 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 391
+[19-Feb-2019 14:15:14 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 395
+[19-Feb-2019 14:15:14 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 399
+[19-Feb-2019 14:15:14 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 403
+[19-Feb-2019 14:15:14 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 410
+[19-Feb-2019 14:15:14 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 417
+[19-Feb-2019 14:15:14 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 453
+[19-Feb-2019 14:15:14 Asia/Hong_Kong] PHP Notice:  Undefined variable: row in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 505
+[19-Feb-2019 14:57:54 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 14:57:54 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[19-Feb-2019 15:10:28 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 15:10:28 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[19-Feb-2019 15:11:36 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 15:11:36 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[19-Feb-2019 15:41:01 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[19-Feb-2019 16:16:00 Asia/Hong_Kong] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/tpotsco/public_html/shared_hosting/euphotel/users/logout.php on line 4
+[19-Feb-2019 16:18:25 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 16:18:25 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 9
+[19-Feb-2019 16:20:35 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 16:21:22 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 16:21:25 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 16:21:55 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 16:22:49 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 16:22:58 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 16:23:17 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 8
+[19-Feb-2019 16:36:21 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:36:21 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:42:31 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:42:31 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:42:43 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:42:43 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:43:01 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:43:01 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:45:29 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:45:29 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:45:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:45:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:46:28 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:46:28 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:46:57 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:46:57 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:47:36 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:47:36 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:47:43 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:47:43 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:48:01 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:48:01 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:55:13 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:55:13 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:56:13 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:56:13 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:56:22 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:56:22 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:57:01 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:57:01 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:57:12 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:57:12 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:57:41 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:57:41 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:57:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:57:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 16:59:10 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 16:59:10 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:00:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:00:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:06:20 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:06:20 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:06:31 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:06:31 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:16:31 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:16:32 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:31:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:31:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:31:55 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:31:55 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:31:56 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:31:56 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:31:57 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:31:57 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:32:27 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:32:27 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:36:14 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:36:14 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:40:05 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:40:05 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:40:08 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:40:08 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:42:25 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:42:25 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:52:57 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:52:57 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 17:55:02 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 10
+[19-Feb-2019 17:55:02 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 11
+[19-Feb-2019 18:33:43 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 15
+[19-Feb-2019 16:04:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'S5yusXQh7zkyhRPb'@'localhost' (using password: YES) in /home/tpotsco/public_html/shared_hosting/euphotel/includes/database.php on line 9
+[19-Feb-2019 16:16:41 Asia/Kolkata] PHP Notice:  Undefined variable: name in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 452
+[19-Feb-2019 16:20:54 Asia/Kolkata] PHP Notice:  Undefined variable: post in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php on line 7
+[19-Feb-2019 16:20:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php on line 10
+[19-Feb-2019 16:21:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php on line 11
+[25-Feb-2019 10:20:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[25-Feb-2019 10:20:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 7
+[25-Feb-2019 10:20:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 7
+[25-Feb-2019 10:21:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 7
+[25-Feb-2019 10:21:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 7
+[25-Feb-2019 10:21:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 7
+[25-Feb-2019 10:21:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 7
+[25-Feb-2019 10:21:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 7
+[25-Feb-2019 10:21:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function now() in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 7
+[25-Feb-2019 10:22:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[25-Feb-2019 10:22:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[25-Feb-2019 10:22:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[25-Feb-2019 10:22:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/call.php on line 8
+[25-Feb-2019 10:52:29 Asia/Kolkata] PHP Warning:  constant(): Couldn't find constant CONTACT_STATUS_ in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php on line 25
+[25-Feb-2019 10:58:19 Asia/Kolkata] PHP Warning:  constant(): Couldn't find constant CONTACT_STATUS_ in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php on line 25
+[25-Feb-2019 11:06:18 Asia/Kolkata] PHP Warning:  constant(): Couldn't find constant CONTACT_STATUS_ in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php on line 25
+[25-Feb-2019 11:40:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:41:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:41:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:42:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:42:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:44:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:54:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:55:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:57:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 11:57:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 15:04:42 Asia/Hong_Kong] PHP Notice:  Undefined index: is_loggedin in /home/tpotsco/public_html/shared_hosting/euphotel/includes/session.php on line 9
+[25-Feb-2019 15:04:42 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/includes/session.php on line 10
+[25-Feb-2019 12:34:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 12:35:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 12:35:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 12:36:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 11
+[25-Feb-2019 12:37:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 11
+[25-Feb-2019 12:38:19 Asia/Kolkata] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 9
+[25-Feb-2019 12:38:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 11
+[25-Feb-2019 12:40:38 Asia/Kolkata] PHP Warning:  constant(): Couldn't find constant CONTACT_STATUS_ in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php on line 25
+[25-Feb-2019 12:40:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 11
+[25-Feb-2019 12:55:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 11
+[25-Feb-2019 12:55:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 11
+[25-Feb-2019 12:57:28 Asia/Kolkata] PHP Notice:  Undefined index: start_time in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 11
+[25-Feb-2019 12:57:31 Asia/Kolkata] PHP Notice:  Undefined index: start_time in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 11
+[25-Feb-2019 13:07:35 Asia/Kolkata] PHP Notice:  Undefined index: start_time in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 13:08:03 Asia/Kolkata] PHP Notice:  Undefined index: start_time in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 13:08:24 Asia/Kolkata] PHP Notice:  Undefined index: start_time in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 13:10:17 Asia/Kolkata] PHP Notice:  Undefined index: start_time in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 13:10:17 Asia/Kolkata] PHP Notice:  Undefined variable: post in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 16
+[25-Feb-2019 13:10:33 Asia/Kolkata] PHP Notice:  Undefined index: start_time in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 13:10:33 Asia/Kolkata] PHP Notice:  Undefined variable: post in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 16
+[25-Feb-2019 13:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: post in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 15
+[25-Feb-2019 13:16:23 Asia/Kolkata] PHP Notice:  Undefined variable: post in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 15
+[25-Feb-2019 13:19:21 Asia/Kolkata] PHP Notice:  Undefined index: start_time in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 10
+[25-Feb-2019 13:19:21 Asia/Kolkata] PHP Notice:  Undefined index: data_id in /home/tpotsco/public_html/shared_hosting/euphotel/users/timer.php on line 16
+[25-Feb-2019 16:38:57 Asia/Hong_Kong] PHP Notice:  Undefined index: is_loggedin in /home/tpotsco/public_html/shared_hosting/euphotel/includes/session.php on line 9
+[25-Feb-2019 16:38:57 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/includes/session.php on line 10
+[25-Feb-2019 15:23:40 Asia/Kolkata] PHP Warning:  constant(): Couldn't find constant CONTACT_STATUS_ in /home/tpotsco/public_html/shared_hosting/euphotel/users/updatestatus.php on line 25
+[25-Feb-2019 20:25:53 Asia/Hong_Kong] PHP Notice:  Undefined index: is_loggedin in /home/tpotsco/public_html/shared_hosting/euphotel/includes/session.php on line 9
+[25-Feb-2019 20:25:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/includes/session.php on line 10
+[25-Feb-2019 20:25:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 4
+[25-Feb-2019 20:25:53 Asia/Hong_Kong] PHP Notice:  Undefined index: user in /home/tpotsco/public_html/shared_hosting/euphotel/users/dashboard.php on line 5
