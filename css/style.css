@@ -126,7 +126,7 @@ element.style{padding-left:25px}
 h2.w3-xxlarge{text-align:center;color:#002e5a}
 .active{background-color:#4CAF50; color:#fff}
 .main-navbar.w3-container{margin:0}
-.card{box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);padding:16px;text-align:center;background-color:#444;color:#fff}
+.card{box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);padding:16px;text-align:center;background-color:#444;color:#fff;height: 150px;}
 .rowone{margin:0 -5px}
 .rowone:after{content:"";display:table;clear:both}
 .dashboard-side.side {
@@ -134,6 +134,7 @@ h2.w3-xxlarge{text-align:center;color:#002e5a}
     background-color: #ddd;
     border-right: 2px solid #aaa;
     padding: 20px;
+    height: -webkit-fill-available;
 }
 .w3-container audit-trail{
     margin:10px;
@@ -242,7 +243,7 @@ input#name{width:100%}
 input#email{width:100%}
 textarea{width:100%;padding:10px}
 label{font-weight:700;text-align:left;padding-bottom:2px;float:left;padding-top:5px}
-img{height:30px;margin-bottom:10px}
+img{margin-bottom:10px}
 #number{margin-left:160px;font-family:serif;font-size:initial;margin-bottom:10px;margin-top:10px}
 #version{margin-left:178px;font-family:serif;font-size:initial}
 input.invalid,select.invalid,textarea.invalid{border-color:#dc3545}
