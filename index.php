@@ -10,7 +10,7 @@ include_once('includes/guest.php');
 
 <body>
     <div class="mainlogo">
-        <img src="/img/euphotel.png" alt="logo">
+        <img src="/euphotel/img/euphotel.png" alt="logo">
     </div>
     <div class="container">
         <div class="logo">Sign in</div>

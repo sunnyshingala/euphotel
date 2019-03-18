@@ -11,8 +11,14 @@ if (isset($_POST["page"])) {
 }
 
 $start_from = $page -  1;
-$query = mysqli_query($connection, "SELECT map_id, name, mobile, company, salary, location FROM mapdatatbl LIMIT $start_from, $limit") or die(mysqli_error($conn));
-$row = mysqli_fetch_assoc($query);
+// $query = mysqli_query($connection, "SELECT map_id, name, mobile, company, salary, location FROM mapdatatbl LIMIT $start_from, $limit") or die(mysqli_error($conn));
+// $query = "SELECT map_id, name, mobile, company, salary, location FROM mapdatatbl LIMIT $start_from, $limit";
+// $result = mysqli_query($connection, $query)
+// $row = mysqli_fetch_assoc($query);
+$query = "SELECT * FROM mapdatatbl WHERE id = " . $_GET['id'];
+$result = mysqli_query($connection, $query) or die(mysqli_error($connection));
+$row = mysqli_fetch_assoc($result);
+
 ?>
 
 <!DOCTYPE html>
