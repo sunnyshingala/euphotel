@@ -29,6 +29,8 @@ include_once('../includes/database.php');
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="datetimepicker/jquery.datetimepicker.css"/>
     <script src="datetimepicker/build/jquery.datetimepicker.full.js"></script>
+    <script src="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css"></script>
+    <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 
 </head>
 <body>

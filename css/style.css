@@ -281,6 +281,12 @@ img.mainlogo{height:65px}
   .flex1 { flex: 1 1 20em; text-align: left; }
   .flex2 { flex: 2 2 20em; text-align: right; color: white;} 
 
+  tr.odd {
+    text-align: -webkit-center;
+}
+tr.even {
+    text-align: -webkit-center;
+}
 @media screen and (max-width: 700px) {
     .row,.navbar{flex-direction:column}
 }

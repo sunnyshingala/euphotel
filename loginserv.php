@@ -21,7 +21,7 @@ if(isset($_POST['submit'])) {
                                 $_SESSION['is_loggedin'] = true;
                                 while($row = mysqli_fetch_assoc($result)){
                                         $_SESSION['user'] = $row;
-                                        header("Location: ../users/dashboard.php"); // Redirecting to other page
+                                        header("Location: /users/dashboard.php"); // Redirecting to other page
                                         break;
                                 }
                         }else{
