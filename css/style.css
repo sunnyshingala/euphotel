@@ -149,7 +149,6 @@ button {margin: 5px;}
 .hidden{display:none!important}
 .swal2-modal .swal2-spacer{height:0}
 textarea{width:300px}
-select{width:300px;height:43px}
 img.loader{padding:100px} 
 .w3-container.audit-trail {
     padding: 0;
@@ -190,13 +189,13 @@ textarea#note {
     margin: 0px;
     height: 77px;
     width: 306px;
-
+    
 }
 textarea#otherbox_salaried {
     margin: 0px;
     height: 77px;
     width: 306px;
-
+    
 }
 textarea#otherbox_c4c {
     margin: 0px;
@@ -241,7 +240,7 @@ select{width:100%;padding:10px}
 input#name{width:100%}
 input#email{width:100%}
 textarea{width:100%;padding:10px}
-label{font-weight:700;text-align:left;padding-bottom:2px;float:left;padding-top:5px}
+label{font-weight:700;text-align:left;padding-bottom:2px;padding-top:5px}
 img{height:30px;margin-bottom:10px}
 #number{margin-left:160px;font-family:serif;font-size:initial;margin-bottom:10px;margin-top:10px}
 #version{margin-left:178px;font-family:serif;font-size:initial}
@@ -266,26 +265,30 @@ img.mainlogo{height:65px}
     display: -moz-flex;
     display: -webkit-flex;
     display: flex;
-  }
-  
-  .footer-item {
+}
+
+.footer-item {
     background:#002e5a;
     padding: 10px;
     color: white;
     font-weight: bold;
     font-size: 1em;
-   
-  }
-  
-  .flex1 { flex: 1 1 20em; text-align: left; }
-  .flex2 { flex: 2 2 20em; text-align: right; color: white;} 
+}
 
-  tr.odd {
+.flex1 { flex: 1 1 20em; text-align: left; }
+.flex2 { flex: 2 2 20em; text-align: right; color: white;} 
+
+tr.odd {
     text-align: -webkit-center;
 }
 tr.even {
     text-align: -webkit-center;
 }
+.card {
+    font-size: -webkit-xx-large;
+}
+select{width:300px;height:43px}
+
 @media screen and (max-width: 700px) {
     .row,.navbar{flex-direction:column}
 }

@@ -30,16 +30,16 @@ if (!$conn) {
         }
         $data = array_map('trim', $data);
         // data will be received here in $data row wise
-        $query = "INSERT INTO mapdatatbl (`name`, `mobile`, `address`, `company`, `salary`, `email`, `pincode`, `location`, `date_of_print`) 
-                        VALUES ('" . $data[$_POST['name']] . "',
-                        '" . $data[$_POST['mobile']] . "',
-                        '" . $data[$_POST['address']] . "',
-                        '" . $data[$_POST['company']] . "',
-                        '" . $data[$_POST['salary']] . "',
-                        '" . $data[$_POST['email']] . "',
-                        '" . $data[$_POST['pincode']] . "',
-                        '" . $data[$_POST['location']] . "',
-                        '" . $data[$_POST['date_of_print']] . "')";
+        $query = "INSERT INTO forums (`forum_id`, `forum_name`, `venue`, `president_name`, `vice_president_name_1`, `vice_president_name_2`, `created_at`, `updated_at`, `status`) 
+                        VALUES ('" . $data[$_POST['forum_id']] . "',
+                        '" . $data[$_POST['forum_name']] . "',
+                        '" . $data[$_POST['venue']] . "',
+                        '" . $data[$_POST['president_name']] . "',
+                        '" . $data[$_POST['vice_president_name_1']] . "',
+                        '" . $data[$_POST['vice_president_name_2']] . "',
+                        '" . $data[$_POST['created_at']] . "',
+                        '" . $data[$_POST['updated_at']] . "',
+                        '" . $data[$_POST['status']] . "')";
         if (!mysqli_query($conn, $query)) {
             printf("Error: %s\n", mysqli_error($conn));
         }
@@ -56,3 +56,4 @@ if (!$conn) {
     }
 
 ?>
+<?php include_once('../layout/html_end.php'); ?>
