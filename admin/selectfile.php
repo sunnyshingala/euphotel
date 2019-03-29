@@ -2,17 +2,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-        <title></title>
-        
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
-        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style>
     .block {
-    text-align: center;
-    font-size: 40px;
-    white-space: nowrap;
+      text-align: center;
+      font-size: 40px;
+      white-space: nowrap;
 
     
     /* border: 2px solid #000080;
@@ -87,7 +86,7 @@ text-align: center;
 <title>File Upload with PHP</title>
 </head>
 <body>
-    <form action="/admin/upload.php" method="post" enctype="multipart/form-data">
+    <form action="upload.php" method="post" enctype="multipart/form-data">
     
         <!-- <div class="block" style="height: 600px;">
 

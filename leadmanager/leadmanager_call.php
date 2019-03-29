@@ -16,8 +16,8 @@ $start_from = $page -  1;
 // $result = mysqli_query($connection, $query)
 // $row = mysqli_fetch_assoc($query);
 $query = "SELECT * FROM mapdatatbl WHERE id = " . $_GET['id'];
-$result = mysqli_query($connection, $query) or die(mysqli_error($connection));
-$row = mysqli_fetch_assoc($result);
+$result = mysqli_query($connection,$query) or die(mysqli_error($connection));
+$row = mysqli_fetch_assoc($result); 
 
 ?>
 
@@ -121,7 +121,7 @@ $row = mysqli_fetch_assoc($result);
                 </ul>
 
                 <hr />
-                <div class="document-collection form-group hidden" id="date">
+                <div class="document-collection form-group" id="date">
                     <label type="picktime" class="w3-large">Pick Time</label>
                     <label class="w3-large right-inline"><input type="datetime-local" id="date-time" name="date-time"
                             value="2019-01-29T10:30"></label>
@@ -228,20 +228,19 @@ $row = mysqli_fetch_assoc($result);
                     </label>
                 </div>
                 <div class="document-collection form-group">
-                    <button type="button" class="btn btn-primary active" id="submit">Submit</button>
+                    <button id="backbutton" class="btn btn-primary">Back to List</button>
                 </div>
-                </form>
-            </div>
-            <div class="document-collection form-group">
-                <button type="button" class="btn btn-primary active" id="updateStatus">Update Status</button>
-                <form method="post">
-                    <button type="button" class="btn btn-primary " type="submit" id="nextcall">Next Call</button>
-                    <input type="hidden" value="<?php echo $row['map_id'] ?>" id="data_id" />
-                    <input type="hidden" value="<?php echo $page + 1; ?>" name="page" />
-                </form>
-            </div>
+                <button type="button" class="btn btn-primary active" id="updateStatus">Update Status</button>            
+                <div class="document-collection form-group">
+                    <form method="post">
+                        <button type="button" class="btn btn-primary active" type = "submit" id="submit">Submit</button>
+                        <input type="hidden" value="<?php echo $row['map_id'] ?>" id="data_id" />
+                        <input type="hidden" value="<?php echo $page + 1; ?>" name="page" />
+                    </form>
 
-
+                </div>
+               
+            </div>
         </div>
         <div class="main">
             <div class="navbar" class="mainnavbar">
@@ -254,22 +253,22 @@ $row = mysqli_fetch_assoc($result);
                 <img src="../img/loader.gif" alt="loading..." class="hidden loader" />
                 <ul class="w3-ul w3-card-4 audit-trail-response" id="audit-trail-response">
 
-
-                    <!-- <?php
-  $auditTrailQuery = "SELECT at.id, at.data_id, at.message, at.action_by, at.created_at, at.type, u.name as user_name FROM audit_trail as at, users as u WHERE at.action_by = u.id AND at.data_id = " . $row['map_id'];
-  $auditTrailResult = mysqli_query($connection, $auditTrailQuery);
-  if (mysqli_num_rows($auditTrailResult) > 0) {
-    while ($auditTrail = mysqli_fetch_assoc($auditTrailResult)) { ?>
-        <li class="w3-bar">
-          <div class="w3-bar-item">
-            <span class="w3-large"><?php echo ucfirst($auditTrail['user_name'])?></span><br>
-            <span><?php echo date('d F Y, H:i', strtotime($auditTrail['created_at']))?></span>
-            <p><?php echo $auditTrail['message']?></p>
-          </div>
-        </li>
-  <?php  }
-  }
-  ?> -->
+<!--                
+                    <?php
+                        $auditTrailQuery = "SELECT at.id, at.data_id, at.message, at.action_by, at.created_at, at.type, u.name as user_name FROM audit_trail as at, users as u WHERE at.action_by = u.id AND at.data_id = " . $row['map_id'];
+                        $auditTrailResult = mysqli_query($connection, $auditTrailQuery);
+                        if (mysqli_num_rows($auditTrailResult) > 0) {
+                            while ($auditTrail = mysqli_fetch_assoc($auditTrailResult)) { ?>
+                                <li class="w3-bar">
+                                    <div class="w3-bar-item">
+                                        <span class="w3-large"><?php echo ucfirst($auditTrail['user_name'])?></span><br>
+                                        <span><?php echo date('d F Y, H:i', strtotime($auditTrail['created_at']))?></span>
+                                        <p><?php echo $auditTrail['message']?></p>
+                                    </div>
+                                </li>
+                            <?php  }
+                            }
+                            ?> -->
                 </ul>
             </div>
         </div>
@@ -280,6 +279,10 @@ $row = mysqli_fetch_assoc($result);
 
 <script>
 // view contact
+document.getElementById("backbutton").onclick = function () {
+    $(this).addClass('hidden');
+        location.href = "/euphotel/leadmanager/leads.php";
+    };
 $(function() {
     $("#CONTACT_STATUS_LEAD").click(function() {
         $(".document-collection").removeClass('hidden');
@@ -389,12 +392,11 @@ function loadAuditTrail(type) {
 }
 
 // hide date
+
 $(function() {
     $("#chkpickup").click(function() {
         if ($(this).is(":checked")) {
             $("#date").addClass('hidden');
-        } else {
-            $("#date").removeClass('hidden');
         }
     });
 });
@@ -450,5 +452,6 @@ $("#status").change(function() {
         
     }
 });
+
 
 </script>

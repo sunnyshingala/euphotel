@@ -118,7 +118,7 @@
     });
     $("#about").click(function() {
         swal({
-                html: '<img src="../img/euphotel.png"><br>' +
+                html: '<img src="../img/euphotel.png" id="about" ><br>' +
                     '<a  href="https://www.euphoriatechnologies.com" target="_blank">www.euphoriatechnologies.com</a><br>' +
                     '<label for="number" id="number">+91 (22) 6129-7697</label><br>' +
                     '<label for="version" id="version">version: 1.0.0</label>',
